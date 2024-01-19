@@ -11,7 +11,7 @@ export const userRole = {
   SOCIAL_MEDIA_MANAGER: "SOCIAL MEDIA MANAGER",
   CONTENT_WRITER: "CONTENT WRITER",
   CONTENT_CREATOR: "CONTENT CREATOR",
-  DATA_ANALYST: "DATA ANALYST",
+  // DATA_ANALYST: "DATA ANALYST",
 };
 
 const PrivateRoute = ({ roleAllowed }) => {
